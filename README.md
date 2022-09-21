@@ -33,9 +33,9 @@ Instruction to use
 
 The folder structures are
 
-Template (which has (index.html)HTML code to view in website)
-app.py - Python file implementing flask 
-rf_models - zip format of the random forest classifier trained model
+1.Template (which has (index.html)HTML code to view in website)
+2.app.py - Python file implementing flask 
+3.rf_models - zip format of the random forest classifier trained model
 
 Run the app.py 
 
