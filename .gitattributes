@@ -1,3 +1,4 @@
 models_big filter=lfs diff=lfs merge=lfs -text
 randomforest_model.pkl filter=lfs diff=lfs merge=lfs -text
 models_big.zip filter=lfs diff=lfs merge=lfs -text
+rf_models.zip filter=lfs diff=lfs merge=lfs -text
