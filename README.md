@@ -27,7 +27,7 @@ Data -> Latitude, Longitude, Fire size, Month, Date, Discovery date
 
 The accuracy of the model can be improved by boosting method and adding more number of features.
 
-# Flask deployment 
+# Flask deployment (Local host)
 
 Instruction to use
 
