@@ -18,6 +18,7 @@ The prediction for this wildfire is shown by
 -> Also model deployment using Flask API
 
 The model is trained with important features prediction the column "STAT_CAUSE_DESCR"
+
 REFERENCE
 
 0->natural = ['Lightning']
