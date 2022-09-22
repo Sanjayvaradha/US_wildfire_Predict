@@ -18,6 +18,13 @@ The prediction for this wildfire is shown by
 -> Also model deployment using Flask API
 
 The model is trained with important features prediction the column "STAT_CAUSE_DESCR"
+REFERENCE
+
+0->natural = ['Lightning']
+1->accidental = ['Structure','Fireworks','Powerline','Railroad','Smoking','Children','Campfire','Equipment Use','Debris Burning']
+2->malicious = ['Arson']
+3->other = ['Missing/Undefined','Miscellaneous']
+
 Random Forest Classifier (Bagging method) is used to predict the cause of the wildfire
 
 Having the processing power, the accuracy of 61% was able to achieve
