@@ -52,4 +52,8 @@ Run the app.py
 3. Enter the following data in website and click submit button
 4. At backend with the will help of FLASK model will predict the cause and the resut will be displayed on website
 
+# DOCKER
 
+Below is the docker command to pull the image from the docker hub.
+
+Docker command: docker pull sanjayggmu/canonical_api:1
