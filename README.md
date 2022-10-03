@@ -50,7 +50,7 @@ Run the app.py
 1. It will unzip the rf_models and load the model using pickle
 2. The render_template will run the index.html file to view the website
 3. Enter the following data in website and click submit button
-4. At backend with the will help of FLASK model will predict the cause and the resut will be displayed on website
+4. At backend with the will help of FLASK, model will predict the cause and the resut will be displayed on website
 
 # DOCKER
 
