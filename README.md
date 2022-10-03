@@ -57,3 +57,4 @@ Run the app.py
 Below is the docker command to pull the image from the docker hub.
 
 Docker command: docker pull sanjayggmu/canonical_api:1
+https://hub.docker.com/u/sanjayggmu
