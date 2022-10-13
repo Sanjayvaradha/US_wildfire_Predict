@@ -1,4 +1,4 @@
-# Canonical_US_wildfire
+# US_wildfire
 
 # Have wildfires become more or less frequent over time?
 
